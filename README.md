@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **BackEnd**
 
-- 💬 Ask me about **HTML, CSS, JAVA, C++**
+- 💬 Ask me about **HTML, CSS, JAVA, C++, JavaScript** 
 
 - 📫 How to reach me **priyanshusingh.0601@gmail.com**
 
