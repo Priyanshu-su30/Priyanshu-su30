@@ -4,7 +4,7 @@
 
 *🌱 I’m currently learning **BackEnd**
 
-*💬 Ask me about **HTML, CSS, JAVA, C++, JavaScript** 
+*💬 Ask me about **C++, Python, JAVA, HTML, CSS, JavaScript, React** 
 
 *📫 How to reach me **priyanshusingh.0601@gmail.com**
 
@@ -16,10 +16,12 @@
 
 <div>
 <h3 align="left">Languages and Tools:</h3>
+<img height=50 src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height=50 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
