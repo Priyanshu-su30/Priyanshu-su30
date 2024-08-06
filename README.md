@@ -4,7 +4,7 @@
 
 *🌱 I’m currently learning **BackEnd**
 
-*💬 Ask me about **C++, JAVA, HTML, CSS, JavaScript, React, NodeJs, MongoDB** 
+*💬 Ask me about **C++, JAVA, HTML, CSS, Bootstrap, JavaScript, React, NodeJs, MongoDB** 
 
 *📫 How to reach me **priyanshusingh.0601@gmail.com**
 
@@ -25,7 +25,7 @@
 <img height=50 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
 <img height=50 src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
 <img height=50 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />  
-<img height=50 src="" />  
+<img height=50 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" />  
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </div>
