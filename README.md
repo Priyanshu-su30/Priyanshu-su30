@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-*🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+*🔭 I’m a Software Developer and contributing to frontend and backend for building web applications.
 
-*🌱 I’m currently learning **BackEnd**
+*🌱 I’m currently learning **NextJs**
 
-*💬 Ask me about **C++, JAVA, HTML, CSS, Bootstrap, JavaScript, React, NodeJs, MongoDB** 
+*💬 Ask me about **Tailwind, JavaScript, React, NodeJs, MongoDB, Prisma** 
 
 *📫 How to reach me **priyanshusingh.0601@gmail.com**
 
