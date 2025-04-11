@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 *🔭 I’m a Software Developer and contributing to frontend and backend for building web applications.
 
-*🌱 I’m currently learning **NextJs**
+*🌱 I’m currently working on **DevOps**
 
 *💬 Ask me about **Tailwind, JavaScript, React, NodeJs, MongoDB, Prisma** 
 
@@ -10,22 +10,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-singh-a7711822b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-singh-a7711822b/" height="30" width="40" /></a>
-<a href="[https://instagram.com/priyanshu_k_11](https://x.com/Priyans65890984)" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-ar21.svg" alt="priyanshu_k_11" height="30" width="40" /></a>
+<a href="https://x.com/FullStack_Fury" target="blank">
+  <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" height=50 />
+</a>`
 </p>
 
 <div>
-<h3 align="left">Languages and Tools:</h3>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<h3 align="left">Tech Stacks:</h3>
+<img height=50 src="https://www.svgrepo.com/show/349419/javascript.svg"/>
+<img height=50 src="https://www.svgrepo.com/show/439022/typescript.svg"/>
+<img height=50 src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"/>
 <img height=50 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img height=50 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
 <img height=50 src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
-<img height=50 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />  
-<img height=50 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" />  
+<img height=50 src="https://www.svgrepo.com/show/354553/websocket.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </div>
